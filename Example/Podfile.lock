@@ -1,0 +1,22 @@
+PODS:
+  - Cirrus (0.1.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - Cirrus (from `../`)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+
+EXTERNAL SOURCES:
+  Cirrus:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Cirrus: 07ffd3fc6995a7c83cfd97f16bde9b9c0843e21d
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 0fba5fad2aa61038c83b03ae9069beb8b06f4c87
+
+COCOAPODS: 1.4.0

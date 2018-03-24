@@ -1,0 +1,6 @@
+framework module Cirrus {
+  umbrella header "Cirrus-umbrella.h"
+
+  export *
+  module * { export * }
+}

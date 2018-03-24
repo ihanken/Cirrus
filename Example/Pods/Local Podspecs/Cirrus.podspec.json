@@ -1,0 +1,22 @@
+{
+  "name": "Cirrus",
+  "version": "0.1.0",
+  "summary": "A short description of Cirrus.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ihanken@bellsouth.net/Cirrus",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ihanken@bellsouth.net": "ihanken@bellsouth.net"
+  },
+  "source": {
+    "git": "https://github.com/ihanken@bellsouth.net/Cirrus.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Cirrus/Classes/**/*"
+}
