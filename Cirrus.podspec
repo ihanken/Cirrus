@@ -18,7 +18,8 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  Cirrus is built to make creating Swift word clouds simple.
+  Cirrus is built to make creating Swift word clouds simple. I needed to create a word cloud for native iOS,
+  and I found that there were none in the trunk. So I decided to make my own.
                        DESC
 
   s.homepage         = 'https://github.com/ihanken/Cirrus'
